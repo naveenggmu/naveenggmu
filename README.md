@@ -42,15 +42,16 @@ Here are some ideas to get you started:
 - Fun fact :⚡ Won 12/16 Hackathons participated
 
 ### My Research Contributions 📝
-- Scalable Deep Learning for Stress and Affect Detection on Resource-Constrained Devices  
+Scalable Deep Learning for Stress and Affect Detection on Resource-Constrained Devices  
 Abhijith Ragav, Nanda H Krishna, **Naveen Narayanan**, Kevin Thelly, Vineeth Vijayaraghavan  
-*18th IEEE International Conference on Machine Learning and Applications (ICMLA)*
-<i class="fab fa-github"></i>
+*18th IEEE International Conference on Machine Learning and Applications (ICMLA)*  
 
 
-- End-to-End Deep Learning for Reliable Cardiac Activity Monitoring using Seismocardiograms  
+End-to-End Deep Learning for Reliable Cardiac Activity Monitoring using Seismocardiograms  
 Prithvi Suresh, **Naveen Narayanan**, Chakilam Vijay Pranav, Vineeth Vijayaraghavan  
 *19th IEEE International Conference on Machine Learning and Applications (ICMLA)*
+
+- 
 
 
 ### My recent Mad Science projects
