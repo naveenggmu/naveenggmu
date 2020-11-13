@@ -14,9 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@master/devicon.min.css">
+
 
 <h1 align="center">Hi 👋, I'm Naveen Narayanan</h1>
-<h3 align="center">A passionate fullstack JS nerd and a hackathon veteran</h3>
+<h3 align="center">A passionate fullstack JS nerd and a hackathon veteranregirngiunerui lorem ipsum iuerngfrengionre iognreoingoierngmoiren ionegrroiengoirengioner oigneroingoierngoirenoin inrgoirengoinreognre goinreoignreoignroein iognreoingreoing oinregoierngoirengoiern oignroeingoierngoinreoi ngoignreongoerngoi niogrenegoingeroin goiernogineroingoien</h3>
 <h3 align="center">
 <a href="https://dev.to/mohanpierce99" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="mohanpierce99" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mohan-sundar-9881a7180/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/mohan-sundar-9881a7180/" height="30" width="30" /></a>
@@ -41,18 +43,38 @@ Here are some ideas to get you started:
 
 - Fun fact :⚡ Won 12/16 Hackathons participated
 
-### My Research Contributions 📝
-Scalable Deep Learning for Stress and Affect Detection on Resource-Constrained Devices  
+## Publications 📝📰
+
+### Conference Papers  
+
+[Scalable Deep Learning for Stress and Affect Detection on Resource-Constrained Devices](https://ieeexplore.ieee.org/document/8999216)  
 Abhijith Ragav, Nanda H Krishna, **Naveen Narayanan**, Kevin Thelly, Vineeth Vijayaraghavan  
 *18th IEEE International Conference on Machine Learning and Applications (ICMLA)*  
 
 
-End-to-End Deep Learning for Reliable Cardiac Activity Monitoring using Seismocardiograms  
+[End-to-End Deep Learning for Reliable Cardiac Activity Monitoring using Seismocardiograms](https://arxiv.org/abs/2010.05662)  
 Prithvi Suresh, **Naveen Narayanan**, Chakilam Vijay Pranav, Vineeth Vijayaraghavan  
-*19th IEEE International Conference on Machine Learning and Applications (ICMLA)*
+*19th IEEE International Conference on Machine Learning and Applications (ICMLA)*  
 
-- 
+### Working Notes  
 
+[Deep Learning for UI Element Detection: DrawnUI 2020](http://ceur-ws.org/Vol-2696/paper_61.pdf)  
+**Naveen Narayanan**, Nitin Nikamanth AB, Kavya Jaganathan  
+*11th Conference and Labs of the Evaluation Forum (CLEF)*  
+
+## Current Work Experience 💼
+
+## Projects 💻
+
+🚀 [GrocerStop](https://devfolio.co/submissions/grocerstop) [🔗](https://devfolio.co/submissions/grocerstop) <a href="https://devfolio.co/submissions/grocerstop" ><img src="GitHub-Mark-32px.png" alt="github" width="20" height="20"/><a/>  
+    Application to monitor, control and manage crowds at departmental stores for preventing spread of COVID-19  
+  
+
+🚀 [Predicting The On-time Performance Of Flights]  
+    Modelled a two-stage predictive ML Engine that forecasts the On-time performance of flights using Weather data in the US  
+
+🚀 [TARS: Workplace Automation Bot for Solarillion Foundation](https://github.com/solarillionfoundation/TARS)  
+    TARS is a bot that automates almost every mundane task that happens at Solarillion Foundation. I added features that automated the process of updating the official website via Slack  
 
 ### My recent Mad Science projects
 
