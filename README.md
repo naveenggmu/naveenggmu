@@ -54,12 +54,12 @@ Prithvi Suresh, **Naveen Narayanan**, Chakilam Vijay Pranav, Vineeth Vijayaragha
 🏆 Ranked 2nd in the leaderboard
 <!-- ## Current Work Experience 💼 -->
 
-### Checkout my projects 👇
+<!-- ### Checkout my projects 👇 -->
 ## Projects 💻
 
 🚀 **GrocerStop** [🔗](https://github.com/naveenggmu/grocerstop) [📜](https://devfolio.co/submissions/grocerstop)  
     Application to monitor, control and manage crowds at departmental stores for preventing spread of COVID-19  
-  
+    🏆 Placed 3rd in Restart India 2020 Hackathon
 
 🚀 **Predicting The On-time Performance Of Flights** [🔗](https://github.com/naveenggmu/Flight-Delay-Prediction-ML-Project)  
     Modelled a two-stage predictive ML Engine that forecasts the On-time performance of flights using Weather data in the US  
@@ -67,11 +67,12 @@ Prithvi Suresh, **Naveen Narayanan**, Chakilam Vijay Pranav, Vineeth Vijayaragha
 🚀 **TARS: Workplace Automation Bot for Solarillion Foundation** [🔗](https://github.com/solarillionfoundation/TARS)  
     TARS is a bot that automates almost every mundane task that happens at Solarillion Foundation. I added features that automated the process of updating the official website via Slack  
 
-🚀 **Blitz AI Challenge** [🔗](https://github.com/solarillionfoundation/TARS)  
+🚀 **Blitz AI Challenge** [🔗](https://github.com/naveenggmu/AIcrowd-Blitz-2)  
     Blitz is a 15 day AI Challenge conducted by AIcrowd.  
     🏆 Ranked 3rd in the leaderboard  
 
-🚀 **EPFL ML Road Segmentation Challenge**  
+🚀 **EPFL ML Road Segmentation Challenge** [🔗](https://github.com/naveenggmu/EPFL-ML-Road-Segmentation-2019)  
+    Segmented Roads from satellite Images using a Unet. This was the first challenge that I participated in AIcrowd back in Nov 2019
 
 
 
