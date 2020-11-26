@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi 👋, I'm Naveen Narayanan</h1>
-<h3 align="center">A passionate fullstack JS nerd and a hackathon veteranregirngiunerui lorem ipsum iuerngfrengionre iognreoingoierngmoiren ionegrroiengoirengioner oigneroingoierngoirenoin inrgoirengoinreognre goinreoignreoignroein iognreoingreoing oinregoierngoirengoiern oignroeingoierngoinreoi ngoignreongoerngoi niogrenegoingeroin goiernogineroingoien</h3>
+<h3 align="center">I am a 4th year undergrad pursing my Bachelors in Computer Science. I love two things in life, one is working on applications of Machine Learning and the other is Manchester United. The reason for one is simple, I want to make my contribution in saving the world. My aim is to seamlessly transition into new areas of interest in Computer Science and explore a wide array of topics, thereby constantly contributing to society. The reason for two is a bit hard though 😄.</h3>
 <h3 align="center">
 <a href="https://dev.to/mohanpierce99" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="mohanpierce99" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mohan-sundar-9881a7180/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/mohan-sundar-9881a7180/" height="30" width="30" /></a>
@@ -26,22 +26,12 @@ Here are some ideas to get you started:
 </p>
 </h3>
 
-- 🔭 I’m currently working on [Wormholes](https://github.com/mohanpierce99/wormhole-rtc)
+- 💼 I’m currently working as a Research Intern at ***AIcrowd***
 
-- 📝 I regulary write articles on [https://medium.com/@itsmohanpierce](https://medium.com/@itsmohanpierce)
+- 🥁 Will be heading to ***PayPal*** as a Software Engineering Intern from Jan 2021. Super stoked about it.
 
-- 🗣️ Active member of Facebook Developer circles, Ramco nuthouse and ChennaiJS 
+- 📫 How to reach me **navaans@gmail.com**
 
-- 🎤 Gave my first conference talk on [A deep dive into Javascript & its ecosystem](https://www.meetup.com/thenuthouse/events/251879530/)
-
-- 💬 Ask me about **React WebRTC NodeJS Graphql**
-
-- 📫 How to reach me **itsmohanpierce@gmail.com**
-
-- 🌎 Freelanced for building [CareerWise](http://www.careerwise.in/)
-
-
-- Fun fact :⚡ Won 12/16 Hackathons participated
 
 ## Publications 📝📰
 
@@ -61,72 +51,30 @@ Prithvi Suresh, **Naveen Narayanan**, Chakilam Vijay Pranav, Vineeth Vijayaragha
 [Deep Learning for UI Element Detection: DrawnUI 2020](http://ceur-ws.org/Vol-2696/paper_61.pdf)  
 **Naveen Narayanan**, Nitin Nikamanth AB, Kavya Jaganathan  
 *11th Conference and Labs of the Evaluation Forum (CLEF)*  
+🏆 Ranked 2nd in the leaderboard
+<!-- ## Current Work Experience 💼 -->
 
-## Current Work Experience 💼
-
+### Checkout my projects 👇
 ## Projects 💻
 
-🚀 [GrocerStop](https://devfolio.co/submissions/grocerstop) [🔗](https://devfolio.co/submissions/grocerstop) <a href="https://devfolio.co/submissions/grocerstop" ><img src="GitHub-Mark-32px.png" alt="github" width="20" height="20"/><a/>  
+🚀 GrocerStop [🔗](https://github.com/naveenggmu/grocerstop) [📜](https://devfolio.co/submissions/grocerstop)  
     Application to monitor, control and manage crowds at departmental stores for preventing spread of COVID-19  
   
 
-🚀 [Predicting The On-time Performance Of Flights]  
+🚀 Predicting The On-time Performance Of Flights [🔗](https://github.com/naveenggmu/Flight-Delay-Prediction-ML-Project)  
     Modelled a two-stage predictive ML Engine that forecasts the On-time performance of flights using Weather data in the US  
 
-🚀 [TARS: Workplace Automation Bot for Solarillion Foundation](https://github.com/solarillionfoundation/TARS)  
+🚀 TARS: Workplace Automation Bot for Solarillion Foundation [🔗](https://github.com/solarillionfoundation/TARS)  
     TARS is a bot that automates almost every mundane task that happens at Solarillion Foundation. I added features that automated the process of updating the official website via Slack  
 
-### My recent Mad Science projects
+🚀 Blitz AI Challenge [🔗](https://github.com/solarillionfoundation/TARS)  
+    Blitz is a 15 day AI Challenge conducted by AIcrowd.  
+    🏆 Ranked 3rd in the leaderboard  
 
-🚀 CLI-React portfolio builder - Takes user details as JSON in and builds a beautiful React portfolio. Checkout the [demo](https://res.cloudinary.com/dqmbs2chk/video/upload/v1599990241/reactfolio_fsehwp.mp4) video
-
-🚀 Sends and receives data through  ultrasonic waves using the web audio API in pure Javascript. Checkout the [demo](https://res.cloudinary.com/dqmbs2chk/video/upload/v1598886336/demo_obb9eg.mp4) video.
-
-https://github.com/KuroLabs/sonicsensor
-
-
-### Featured for my projects and hackathons in
-
-
-#### Hindu 
-
-[How tech geeks battled it out at Ramco Systems’ hackathon event
-](https://www.thehindu.com/sci-tech/technology/thinking-in-java/article30494245.ece)
-
-
-[SSN college wins top prize at ‘TN Police Hackathon’
-](https://www.thehindu.com/news/national/tamil-nadu/ssn-college-wins-top-prize-at-tn-police-hackathon/article30064482.ece#:~:text=A%20team%20from%20SSN%20college,protect%20the%20State%20from%20cyberattacks.)
-
-#### Indian Express
-
-[Stegcloak anyone? These SSN students' crypto software lets you send secret messages in text messages
-](https://www.edexlive.com/happening/2020/jun/30/stegcloak-anyone-these-ssn-students-crypto-software-lets-you-send-secret-messages-in-text-messages-12968.html)
-
-Stegcloak was also featured in [Awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) and [Awesome security](https://github.com/sbilly/awesome-security)
-
-
-
-
-
-
-### My Tech articles
-<!-- BLOG-POST-LIST:START -->
-[How to Hide Secrets in Strings— Modern Text hiding in JavaScript
-](https://blog.bitsrc.io/how-to-hide-secrets-in-strings-modern-text-hiding-in-javascript-613a9faa5787?source=---------2------------------)
-
-[Winning first place in India and bagging 5000$ — Facebook International hackathon 2019
-](https://medium.com/@itsmohanpierce/winning-first-place-in-india-facebook-developers-circle-community-challenge-2019-49a7052aa7df)
-
-[Holiday Hack - My experience and the ideas we worked on for winning 3 hackathons in a row during the fall of 2019](https://medium.com/@itsmohanpierce/the-holiday-hack-d10cbc5a4fbd)
-
-[David walsh's blog - Devising the Cloak of Invisibility in JavaScript
-](https://davidwalsh.name/javascript-steganography)
-<!-- BLOG-POST-LIST:END -->
+🚀 EPFL ML Road Segmentation Challenge  
 
 
 
 ### Technologies
 <p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/></p><p align="center">
 
-
-#### Checkout my projects 👇
