@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi 👋, I'm Naveen Narayanan</h1>
-<h3 align="center">I am a 4th year undergrad pursing my Bachelors in Computer Science. I love two things in life, one is working on applications of Machine Learning and the other is Manchester United. The reason for one is simple, I want to make my contribution in saving the world. My aim is to seamlessly transition into new areas of interest in Computer Science and explore a wide array of topics, thereby constantly contributing to society. The reason for two is a bit hard though 😄.</h3>
+<h4 align="center">I am a 4th year undergrad pursing my Bachelors in Computer Science. I love two things in life, one is working on applications of Machine Learning and the other is Manchester United. The reason for one is simple, I want to make my contribution in saving the world. My aim is to seamlessly transition into new areas of interest in Computer Science and explore a wide array of topics, thereby constantly contributing to society. The reason for two is a bit hard though 😄.</h4>
 <h3 align="center">
 <a href="https://www.linkedin.com/in/naveen-1999/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/mohan-sundar-9881a7180/" height="30" width="30" /></a>
 
@@ -57,21 +57,21 @@ Prithvi Suresh, **Naveen Narayanan**, Chakilam Vijay Pranav, Vineeth Vijayaragha
 ### Checkout my projects 👇
 ## Projects 💻
 
-🚀 GrocerStop [🔗](https://github.com/naveenggmu/grocerstop) [📜](https://devfolio.co/submissions/grocerstop)  
+🚀 **GrocerStop** [🔗](https://github.com/naveenggmu/grocerstop) [📜](https://devfolio.co/submissions/grocerstop)  
     Application to monitor, control and manage crowds at departmental stores for preventing spread of COVID-19  
   
 
-🚀 Predicting The On-time Performance Of Flights [🔗](https://github.com/naveenggmu/Flight-Delay-Prediction-ML-Project)  
+🚀 **Predicting The On-time Performance Of Flights** [🔗](https://github.com/naveenggmu/Flight-Delay-Prediction-ML-Project)  
     Modelled a two-stage predictive ML Engine that forecasts the On-time performance of flights using Weather data in the US  
 
-🚀 TARS: Workplace Automation Bot for Solarillion Foundation [🔗](https://github.com/solarillionfoundation/TARS)  
+🚀 **TARS: Workplace Automation Bot for Solarillion Foundation** [🔗](https://github.com/solarillionfoundation/TARS)  
     TARS is a bot that automates almost every mundane task that happens at Solarillion Foundation. I added features that automated the process of updating the official website via Slack  
 
-🚀 Blitz AI Challenge [🔗](https://github.com/solarillionfoundation/TARS)  
+🚀 **Blitz AI Challenge** [🔗](https://github.com/solarillionfoundation/TARS)  
     Blitz is a 15 day AI Challenge conducted by AIcrowd.  
     🏆 Ranked 3rd in the leaderboard  
 
-🚀 EPFL ML Road Segmentation Challenge  
+🚀 **EPFL ML Road Segmentation Challenge**  
 
 
 
