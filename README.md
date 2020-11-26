@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi 👋, I'm Naveen Narayanan</h1>
-<h4 align="center">I am a 4th year undergrad pursing my Bachelors in Computer Science. I love two things in life, one is working on applications of Machine Learning and the other is Manchester United. The reason for one is simple, I want to make my contribution in saving the world. My aim is to seamlessly transition into new areas of interest in Computer Science and explore a wide array of topics, thereby constantly contributing to society. The reason for two is a bit hard though 😄.</h4>
+<h4 align="center">I am a 4th year undergrad pursing my Bachelors in Computer Science. I love two things in life, one is working on applications of Machine Learning and the other is Manchester United. The reason for one is simple, I want to make my contribution in saving the world. My aim is to seamlessly transition into new areas of interest in Computer Science and explore a wide array of topics, thereby constantly contributing to society. The reason for two is a bit hard though 😄. I just hope one day I witness a Champions League game under the lights at Old Trafford</h4>
 <h3 align="center">
 <a href="https://www.linkedin.com/in/naveen-1999/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/mohan-sundar-9881a7180/" height="30" width="30" /></a>
 
@@ -37,14 +37,14 @@ Here are some ideas to get you started:
 
 ### Conference Papers  
 
+[End-to-End Deep Learning for Reliable Cardiac Activity Monitoring using Seismocardiograms](https://arxiv.org/abs/2010.05662)  
+Prithvi Suresh, **Naveen Narayanan**, Chakilam Vijay Pranav, Vineeth Vijayaraghavan  
+*19th IEEE International Conference on Machine Learning and Applications (ICMLA)*   
+
 [Scalable Deep Learning for Stress and Affect Detection on Resource-Constrained Devices](https://ieeexplore.ieee.org/document/8999216)  
 Abhijith Ragav, Nanda H Krishna, **Naveen Narayanan**, Kevin Thelly, Vineeth Vijayaraghavan  
 *18th IEEE International Conference on Machine Learning and Applications (ICMLA)*  
 
-
-[End-to-End Deep Learning for Reliable Cardiac Activity Monitoring using Seismocardiograms](https://arxiv.org/abs/2010.05662)  
-Prithvi Suresh, **Naveen Narayanan**, Chakilam Vijay Pranav, Vineeth Vijayaraghavan  
-*19th IEEE International Conference on Machine Learning and Applications (ICMLA)*  
 
 ### Working Notes  
 
@@ -68,7 +68,7 @@ Prithvi Suresh, **Naveen Narayanan**, Chakilam Vijay Pranav, Vineeth Vijayaragha
     TARS is a bot that automates almost every mundane task that happens at Solarillion Foundation. I added features that automated the process of updating the official website via Slack  
 
 🚀 **Blitz AI Challenge** [🔗](https://github.com/naveenggmu/AIcrowd-Blitz-2)  
-    Blitz is a 15 day AI Challenge conducted by AIcrowd.  
+    Blitz is a 15 day AI Challenge conducted by AIcrowd. We had to solve 5 varied ML Problems.  
     🏆 Ranked 3rd in the leaderboard  
 
 🚀 **EPFL ML Road Segmentation Challenge** [🔗](https://github.com/naveenggmu/EPFL-ML-Road-Segmentation-2019)  
