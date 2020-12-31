@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - 💼 I’m currently working as a Research Intern at ***AIcrowd***
 
-- 🥁 Will be heading to ***PayPal*** as a Software Engineering Intern from Jan 2021. Super stoked about it.
+- 🥁 Will be heading to ***PayPal*** as a Data Scientist Intern from Jan 2021. Super stoked about it.
 
 - 📫 How to reach me **navaans@gmail.com**
 
