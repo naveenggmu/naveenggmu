@@ -24,9 +24,7 @@ Here are some ideas to get you started:
 </p>
 </h3>
 
-- 💼 I’m currently working as a Research Intern at ***AIcrowd***
-
-- 🥁 Will be heading to ***PayPal*** as a Data Scientist Intern from Jan 2021. Super stoked about it.
+- 💼 I’m currently working as a Data Scientist Intern at ***PayPal***
 
 - 📫 How to reach me **navaans@gmail.com**
 
