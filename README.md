@@ -23,8 +23,9 @@ Here are some ideas to get you started:
 
 </p>
 </h3>
+- 📕 I'm currently pursuing my Masters in Computer Science at Georgia Institute of Technology
 
-- 💼 I’m currently working as a Data Scientist Intern at ***PayPal***
+- 💼 Previously worked as a Data Scientist Intern at ***PayPal***
 
 - 📫 How to reach me **navaans@gmail.com**
 
