@@ -17,13 +17,14 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi 👋, I'm Naveen Narayanan</h1>
-<h4 align="center">I am a 4th year undergrad pursing my Bachelors in Computer Science. I love two things in life, one is working on applications of Machine Learning and the other is Manchester United. The reason for one is simple, I want to make my contribution in saving the world. My aim is to seamlessly transition into new areas of interest in Computer Science and explore a wide array of topics, thereby constantly contributing to society. The reason for two is a bit hard though 😄. I just hope one day I witness a Champions League game under the lights at Old Trafford</h4>
+<h4 align="center">I am a 1st year grad pursing my Masters in Computer Science at Georgia Tech. I love two things in life, one is working on applications of Machine Learning and the other is Manchester United. The reason for one is simple, I want to make my contribution in saving the world. My aim is to seamlessly transition into new areas of interest in Computer Science and explore a wide array of topics, thereby constantly contributing to society. The reason for two is a bit hard though 😄. I just hope one day I witness a Champions League game under the lights at Old Trafford</h4>
 <h3 align="center">
 <a href="https://www.linkedin.com/in/naveen-1999/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/mohan-sundar-9881a7180/" height="30" width="30" /></a>
 
 </p>
 </h3>
-- 📕 I'm currently pursuing my Masters in Computer Science at Georgia Institute of Technology
+
+- 📕 I'm currently pursuing my Masters in Computer Science at ***Georgia Institute of Technology***
 
 - 💼 Previously worked as a Data Scientist Intern at ***PayPal***
 
