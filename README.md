@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **navaans@gmail.com**
 
-- 📰 Find my resume [here](NaveenResume.pdf)
+- 📰 Find my resume [here](Naveen_resume.pdf)
 
 
 ## Publications 📝📰
